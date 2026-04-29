@@ -6,17 +6,21 @@
 
 **Real-time CIS Benchmark scanning • Multi-region EC2 + S3 discovery • Compliance analytics • DynamoDB history**
 
-[Quick Start](#-quick-start) · [Architecture](#-architecture) · [API Reference](#-api-endpoints) · [Live Demo](#-demo-note)
+[Quick Start](#-quick-start) · [Architecture](#-architecture) · [API Reference](#-api-endpoints) 
 
 ---
 
 ## 📸 Dashboard Preview
 
-> *(Add your best dashboard screenshot here — this is your #1 first impression)*
 
-| Dashboard | Security Checks | Scan History |
-|-----------|----------------|--------------|
-| ![Dashboard](screenshots/dashboard.png) | ![Checks](screenshots/security-checks.png) | ![History](screenshots/scan-history.png) |
+
+Dashboard
+|![Dashboard](screenshots/dashboard.png)  
+Security Checks  
+![Checks](screenshots/security-checks.png)  
+Scan History 
+![History](screenshots/scan-history.png) 
+
 
 ---
 
