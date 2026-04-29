@@ -15,10 +15,15 @@
 
 
 Dashboard
-|![Dashboard](screenshots/dashboard.png)  
+
+![Dashboard](screenshots/dashboard.png) 
+
 Security Checks  
+
 ![Checks](screenshots/security-checks.png)  
+
 Scan History 
+
 ![History](screenshots/scan-history.png) 
 
 
