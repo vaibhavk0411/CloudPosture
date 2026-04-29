@@ -268,7 +268,14 @@ CloudPosture/
 > **Production note:** Replace `allow_origins=["*"]` in `main.py` with your frontend domain, and use IAM roles instead of access keys.
 
 ---
-
+ 
+## 🔮 Future Enhancements
+ 
+- [ ] **PDF Export** — One-click downloadable compliance report
+- [ ] **Scheduled Scans** — Cron-based automatic scanning (hourly/daily)
+- [ ] **Docker Compose** — One-command local setup
+- [ ] **Expanded CIS Controls** — Scale from 6 to full 50+ control set
+---
 ---
 
 ## 👨‍💻 Author
